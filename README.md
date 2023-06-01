@@ -13,4 +13,11 @@ We can also see 47 (	23.9%, N = 197	) patients have recurrence of breast cancer.
 The largest proportion of lymph node status was 0 with 87 patients ( 44.2% ), meaning 
 axillary and other nearby lymph nodes do not have cancer or only have isolated tumor cells.
 
-A popular prognostic 
+A popular prognostic model for predicting breast cancer recurrence is the NPI. The index is calculated using the formula:
+
+NPI = [0.2 x S] + N + G
+Where:
+
+S is the size of the index lesion in centimetres
+N is the node status: 0 nodes = 1, 1-3 nodes = 2, >3 nodes = 3
+G is the grade of tumour: Grade I = 1, Grade II = 2, Grade III = 3
